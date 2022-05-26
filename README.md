@@ -210,7 +210,7 @@
 
 <details>
  
-  <summary>: Coursera Certificates [1].</summary>
+  <summary>: <b>Coursera Certificates [1]<b>.</summary>
 
   ![Certificate](https://github.com/itsarraj/itsarraj/blob/master/certificates/Coursera%205YBKRX2THX8R.jpg)
 </details>
