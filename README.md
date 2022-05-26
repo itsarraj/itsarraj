@@ -12,20 +12,11 @@
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/itsarraj?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/itsarraj/)
 [![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:animesh080808@gmail.com)
-[![Subscribe my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
-[![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@akashsingh3031)
-<!-- [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
-[![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1) -->
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/itsarraj)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/itsarraj)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/itsarraj)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@akashsingh3031)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com/users/18910829/akashsingh3031)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)]https://platform.topcoder.com/profile/itsarraj
 
 <br>
 
