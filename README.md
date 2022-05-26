@@ -22,7 +22,7 @@
 <br>
 
 - 🔭 I'm in the 3<sup>rd</sup> year of B.E Electronics and Communication Engineering.
-- 🌱 I’m currently learning -- <b>Data science<b> and <b>machine learning<b>.
+- 🌱 I’m currently learning -- <b>Data science</b> and <b>machine learning</b>.
 - 💬 Ask me about -- **Anything**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/itsarraj/">LinkedIn</a> or <a href="mailto:animesh080808@gmail.com">Email</a>
 - ⚡ Fun fact: *You Can't See Me.*
