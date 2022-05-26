@@ -212,7 +212,7 @@
  
   <summary>: Coursera Certificates [1].</summary>
 
-  ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0001.jpg)
+  ![Certificate](https://github.com/itsarraj/itsarraj/blob/master/certificates/Coursera%205YBKRX2THX8R.jpg)
 </details>
 
 <br>
