@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/itsarraj/itsarraj/blob/master/images/giphy.gif" width="200px">
+</p>
+
+
 ### Hi there 👋
 
 <!--
