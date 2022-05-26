@@ -206,7 +206,7 @@
 
 
 
-<h2 align="center">📜 My Certificates [1] 📜</h2>
+<h2 align="center">📜 My Certificates 📜</h2>
 
 <details>
  
