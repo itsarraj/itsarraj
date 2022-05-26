@@ -224,28 +224,7 @@
   </a>
 </p>
 
-### :zap: GitHub Stats
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact"/><br><br>
-    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" />
-  </a>
-</p>
 
-
-![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-### :zap: GitHub Metrics 📊
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
-<p align="center">
-  <a href="https://github.com/AkashSingh3031" target="_blank">
-    <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/metrics.svg"/>
-  </a>
-</p>
 
 <h1 align="center"> My Certificates [240] <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Certified.png" width="50px"></h1>
 
@@ -257,15 +236,7 @@
 
 <br>
 
- <h3 align="center">Hey, Wait! <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"> don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" height="30px"></h4>
-
-<p align="center">
-  <code><a href="https://mail.google.com/mail/u/0/?fs=1&to=animeshbusinessemail@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a></code>
-  <code><a href="https://www.linkedin.com/in/itsarraj/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="30px" /></a></code>
-  <code><a href="https://twitter.com/itsarraj" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" alt="Akash's Twitter" width="30px" /></a></code>
-  <code><a href="https://github.com/itsarraj" target="_blank"><img align="center" 
-</p>
-
+ 
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
 
 <img height="100%" width="100%" alt="Bottom" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/bottom_header.svg"/>
