@@ -191,12 +191,8 @@
   | <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=windows&logoColor=0078d7"></a>                            | <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F05033?style=flat&amp;labelColor=white&amp;logo=ubuntu&logoColor=F05033"></a>                            | <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-e0982c?style=flat&amp;labelColor=white&amp;logo=linux&logoColor=e0982c"></a>                                       | <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-FF6F00.svg?style=flat&amp;labelColor=white&amp;logo=google-colab&logoColor=FF6F00"></a>           | <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&amp;labelColor=white&amp;logo=Jupyter&logoColor=F37626"></a>                                 | <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=visual-studio-code&logoColor=0078d7"></a> | <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat&amp;labelColor=white&amp;logo=heroku&logoColor=430098"></a>                                 |
   
 <!-- LeetCode Stats Card ❤️ -->
-<h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
-<p align="center">
-  <a href="https://leetcode.com/akashsingh3031" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
-  </a>
-</p>
+
+
 
 ***
 <h1 align="center"> My Certificates [1] </h1>
