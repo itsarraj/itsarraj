@@ -18,21 +18,14 @@
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/itsarraj)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/itsarraj)
 
+
 <br>
 
 - 🔭 I'm in the 3<sup>rd</sup> year of B.E Electronics and Communication Engineering.
 - 🌱 I’m currently learning -- <b>Data science<b> and <b>machine learning<b>.
-- <details>
-  <summary>📫  How to reach me :</summary>
-  <a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a>
-  <a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="27px" /> </a>
-  <a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a>
-  <a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a>
-  <a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
-  <a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a>
-</details>
-
+- 💬 Ask me about -- **Anything**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/itsarraj/">LinkedIn</a> or <a href="mailto:animesh080808@gmail.com">Email</a>
+- ⚡ Fun fact: *You Can't See Me.*
 <br>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
