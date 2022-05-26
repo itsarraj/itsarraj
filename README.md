@@ -29,15 +29,6 @@
 <br>
 
 
-### My GitHub Stats ⭐
-
-[![Animesh GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarraj)](https://github.com/itsarraj/github-readme-stats)
-
-### My Streak 🔥
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsarraj&" alt="itsarraj" /></p>
-
-
 ### :zap: My Tech Toolbox 🧰
 <img src="https://github.com/itsarraj/itsarraj/blob/master/images/Line.gif">
 <!-- 
@@ -201,9 +192,17 @@
   | <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=windows&logoColor=0078d7"></a>                            | <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F05033?style=flat&amp;labelColor=white&amp;logo=ubuntu&logoColor=F05033"></a>                            | <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-e0982c?style=flat&amp;labelColor=white&amp;logo=linux&logoColor=e0982c"></a>                                       | <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-FF6F00.svg?style=flat&amp;labelColor=white&amp;logo=google-colab&logoColor=FF6F00"></a>           | <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&amp;labelColor=white&amp;logo=Jupyter&logoColor=F37626"></a>                                 | <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=visual-studio-code&logoColor=0078d7"></a> | <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat&amp;labelColor=white&amp;logo=heroku&logoColor=430098"></a>                                 |
   
 
-<img src="https://github.com/itsarraj/itsarraj/blob/master/images/Line.gif">
 
-<!-- LeetCode Stats Card ❤️ -->
+
+
+
+### My GitHub Stats ⭐
+
+[![Animesh GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarraj)](https://github.com/itsarraj/github-readme-stats)
+
+### My Streak 🔥
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsarraj&" alt="itsarraj" /></p>
 
 
 
