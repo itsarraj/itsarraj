@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/itsarraj/itsarraj/blob/master/images/giphy.gif" width="200px">
+  <img src="https://github.com/itsarraj/itsarraj/blob/master/images/code-its-fun-its-fun.gif" width="200px">
 </p>
 
 <h1 align="center"> Hello , This is <a href="https://itsarraj.github.io/"> Animesh Raj </a> <img src="https://github.com/itsarraj/itsarraj/blob/master/images/programmers-go-internet.gif" width="50px"></h1>
