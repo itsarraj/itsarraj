@@ -21,11 +21,11 @@
 
 <br>
 
-- 🔭 I'm in the 3<sup>rd</sup> year of B.E Electronics and Communication Engineering.
+- 🔭 I'm in the 3<sup>rd</sup> year of <b>B.E Electronics and Communication Engineering.</b>
 - 🌱 I’m currently learning -- <b>Data science</b> and <b>machine learning</b>.
 - 💬 Ask me about -- **Anything**
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/itsarraj/">LinkedIn</a> or <a href="mailto:animesh080808@gmail.com">Email</a>
-- ⚡ Fun fact: *You Can't See Me.*
+- 📫 How to reach me: <b><a href="https://www.linkedin.com/in/itsarraj/">LinkedIn</a></b> or <b><a href="mailto:animesh080808@gmail.com">Email</a></b>
+- ⚡ Fun fact: <b>*You Can't See Me.*</b>
 <br>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
