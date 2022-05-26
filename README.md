@@ -226,10 +226,11 @@
 
 
 
-<h1 align="center"> My Certificates [240] <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Certified.png" width="50px"></h1>
+<h1 align="center"> My Certificates [1] </h1>
 
 <details>
-  <summary>:zap: Coursera Certificates [1].</summary>
+ 
+  <summary>: Coursera Certificates [1].</summary>
 
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0001.jpg)
 </details>
