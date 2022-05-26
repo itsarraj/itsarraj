@@ -21,9 +21,7 @@
 <br>
 
 - 🔭 I'm in the 3<sup>rd</sup> year of B.E Electronics and Communication Engineering.
-- 🌱 I’m currently 
-- :zap: I’m currently learning Web Development.
-- 🎯 🌱 I’m currently learning -- <b>Data science<b> and <b>machine learning<b>.
+- 🌱 I’m currently learning -- <b>Data science<b> and <b>machine learning<b>.
 - <details>
   <summary>📫  How to reach me :</summary>
   <a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a>
