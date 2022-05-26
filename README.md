@@ -2,7 +2,7 @@
   <img src="https://github.com/itsarraj/itsarraj/blob/master/images/giphy.gif" width="200px">
 </p>
 
-<h1 align="center"> Hello <img src="https://github.com/itsarraj/itsarraj/blob/master/images/hi-hello.git" width="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://itsarraj.github.io/"> Animesh Raj </a> <img src="https://github.com/itsarraj/itsarraj/blob/master/images/giphy.gif" width="50px"></h1>
+<h1 align="center"> Hello <img src="https://github.com/itsarraj/itsarraj/blob/master/images/hi-hello.gif" width="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://itsarraj.github.io/"> Animesh Raj </a> <img src="https://github.com/itsarraj/itsarraj/blob/master/images/giphy.gif" width="50px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/itsarraj)
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=itsarraj.profileviews-badge)](https://github.com/itsarraj)
@@ -11,7 +11,7 @@
 ### `Social Networks:`
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/itsarraj?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/itsarraj/)
-[![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:animesh080808@gmail.com)
+[![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:animeshbusinessemail@gmail.com)
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/itsarraj)
@@ -20,11 +20,10 @@
 
 <br>
 
-- 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
-- 🌱 I’m currently working on Open-Source.
-- 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/MAANGM-Gray.gif" width="150px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) Repository.
+- 🔭 I'm in the 3<sup>rd</sup> year of B.E Electronics and Communication Engineering.
+- 🌱 I’m currently 
 - :zap: I’m currently learning Web Development.
-- 🎯 I’m focusing on Data Science.
+- 🎯 🌱 I’m currently learning -- <b>Data science<b> and <b>machine learning<b>.
 - <details>
   <summary>📫  How to reach me :</summary>
   <a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a>
