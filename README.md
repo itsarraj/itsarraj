@@ -2,7 +2,7 @@
   <img src="https://github.com/itsarraj/itsarraj/blob/master/images/giphy.gif" width="200px">
 </p>
 
-<h1 align="center"> Hello <img src="https://github.com/itsarraj/itsarraj/blob/master/images/hi-hello.gif" width="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://itsarraj.github.io/"> Animesh Raj </a> <img src="https://github.com/itsarraj/itsarraj/blob/master/images/giphy.gif" width="50px"></h1>
+<h1 align="center"> Hello , This is <a href="https://itsarraj.github.io/"> Animesh Raj </a> <img src="https://github.com/itsarraj/itsarraj/blob/master/images/programmers-go-internet.gif" width="50px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/itsarraj)
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=itsarraj.profileviews-badge)](https://github.com/itsarraj)
