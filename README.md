@@ -28,6 +28,16 @@
 - ⚡ Fun fact: <b>*You Can't See Me.*</b>
 <br>
 
+
+### My GitHub Stats ⭐
+
+[![Animesh GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarraj)](https://github.com/itsarraj/github-readme-stats)
+
+### My Streak 🔥
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsarraj&" alt="itsarraj" /></p>
+
+
 ### :zap: My Tech Toolbox 🧰
 <img src="https://github.com/itsarraj/itsarraj/blob/master/images/Line.gif">
 <!-- 
