@@ -29,7 +29,7 @@
 <br>
 
 ### :zap: My Tech Toolbox 🧰
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<img src="https://github.com/itsarraj/itsarraj/blob/master/images/Line.gif">
 <!-- 
 #### 👨‍💻 Programming languages
 
@@ -198,21 +198,7 @@
   </a>
 </p>
 
-### :zap: Most used languages ❤️
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="65%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most Used Languages">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=radical" alt=""><br>
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=radical"><br>
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5">
-  </a>
-</p>
-
-
-
+***
 <h1 align="center"> My Certificates [1] </h1>
 
 <details>
