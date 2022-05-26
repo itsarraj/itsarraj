@@ -17,7 +17,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/itsarraj)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/itsarraj)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/itsarraj)
-
+[![CodeChef](https://img.shields.io/badge/-codechef-brown?style=flat&amp;labelColor=white&amp;logo=brown&amp;logoColor=brown)](https://www.codechef.com/users/itsarraj_raj)
 
 <br>
 
