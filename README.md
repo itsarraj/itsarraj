@@ -36,7 +36,10 @@
   </a>
 </p> -->
 <p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
+  <a href="https://github-trophies.vercel.app/?username=itsarraj" target="_blank">
+    ![]()
+    https://github.com/lucthienphong1120/github-trophies
+
     <img width="75%" src="https://github-trophies.vercel.app/?username=itsarraj&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
   </a>
 </p>
