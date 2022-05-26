@@ -9,7 +9,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/itsarraj?logo=github)](https://github.com/itsarraj?tab=repositories)
 
 ### `Social Networks:`
-[![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/itsarraj?tab=followers)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/itsarraj)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/itsarraj/)
 [![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:animeshbusinessemail@gmail.com)
 
