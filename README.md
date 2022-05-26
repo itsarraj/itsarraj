@@ -28,22 +28,6 @@
 - ⚡ Fun fact: <b>*You Can't See Me.*</b>
 <br>
 
-### :zap: GitHub Trophies 🏆
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=itsarraj&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
-</p> -->
-<p align="center">
-  <a href="https://github-trophies.vercel.app/?username=itsarraj" target="_blank">
-    ![]()
-    https://github.com/lucthienphong1120/github-trophies
-
-    <img width="75%" src="https://github-trophies.vercel.app/?username=itsarraj&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
-</p>
-
 ### :zap: My Tech Toolbox 🧰
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <!-- 
