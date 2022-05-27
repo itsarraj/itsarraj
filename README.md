@@ -194,16 +194,10 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarraj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
 ### My GitHub Stats ⭐
-
 [![Animesh GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarraj)](https://github.com/itsarraj/github-readme-stats)
 
 ### My Streak 🔥
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsarraj&" alt="itsarraj" /></p>
 
 
