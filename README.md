@@ -123,8 +123,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="https://twitter.com/itsarraj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
+  </a>
+  <a href="https://linkedin.com/in/itsarraj-me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://itsarraj.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Check%20Out%20My%20Portfolio&message=Visit%20Now!&color=0077B5&logo=github&style=for-the-badge" height="30" alt="portfolio logo" />
+  </a>
 </div>
+
 
 ###
