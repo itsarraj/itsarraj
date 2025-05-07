@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Animesh Raj, Full-Stack Developer specializing in JavaScript and TypeScript.</h2>
+<h2 align="left">Hi, I'm Animesh Raj, Full-Stack Developer specializing in Java Spring Boot microservices, and React.js/Next.js</h2>
 
 ###
 
