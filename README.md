@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust" />
+  </a>
+</p>
+
+
+
+
+
+OLD: 
+
+
 <h2 align="left">Hi, I'm Animesh Raj, Full-Stack Developer specializing in Java Spring Boot microservices, and React.js/Next.js</h2>
 
 ###
