@@ -45,6 +45,7 @@ I build reliable, low-latency backend systems, real-time data pipelines, and pro
 - Website: https://itsarraj.xyz
 - GitHub: https://github.com/itsarraj
 - LinkedIn: https://linkedin.com/in/itsarraj1
+- Twitter: https://twitter.com/itsarraj
 
 ---
 
