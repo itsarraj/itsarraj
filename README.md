@@ -14,7 +14,7 @@ I build reliable, low-latency backend systems, real-time data pipelines, and pro
 
 ## Selected Projects
 - BerufPlattf — AI job‑matching platform (Go Fiber, React TS, MariaDB). Migrating core services to Rust (Actix/Tokio, sqlx) for latency and concurrency.
-  - Repo: https://github.com/itsarraj/BerufPlattf
+  - Live: https://seekersconnect.xyz/ • Repo: https://github.com/itsarraj/BerufPlattf
 - itsarraj.me — Personal site (Next.js, React, Tailwind). SEO, fast loads, CI/CD.
   - Live: https://itsarraj-me.vercel.app/ • Code: https://github.com/itsarraj/itsarraj.me
 - CircuitCrafter — E‑commerce app (React, Redux, Express, MongoDB). JWT auth, PayPal SDK, Dockerized services.
